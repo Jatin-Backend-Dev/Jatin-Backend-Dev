@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jatin Kumar Singh 👋
 
-<!--
-**Jatin-Backend-Dev/Jatin-Backend-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer | Spring Boot | Microservices | Docker | Kafka
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+- Docker
+- Kafka
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Banking Management System
+Java OOP based banking system with:
+- Account creation
+- Transactions
+- Authentication
+- Transaction history
+
+### E-commerce Backend API
+Spring Boot backend with:
+- JWT Authentication
+- Product APIs
+- Order Management
+
+## Currently Learning
+- Microservices
+- Kubernetes
+- DevOps
