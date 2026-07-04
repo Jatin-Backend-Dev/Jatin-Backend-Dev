@@ -1,4 +1,4 @@
-<!--
+
 Hi, I'm Jatin Kumar Singh 👋
 
 Java Backend Developer | Spring Boot | Microservices | Docker | Kafka
@@ -31,8 +31,10 @@ Spring Boot backend with:
 - Kubernetes
 - DevOps
 
--->
 
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Jatin Kumar Singh</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Electronics Engineer</h3>
 
@@ -129,4 +131,5 @@ Spring Boot backend with:
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
+-->
 
